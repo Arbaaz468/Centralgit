@@ -2,3 +2,12 @@ for i in range(5):
     for j in range(i+1):
         print(j+i+1,end='')
     print()
+
+
+
+The output of the above code is:-
+1
+23   
+345  
+4567 
+56789
